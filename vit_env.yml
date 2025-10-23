@@ -1,4 +1,4 @@
-name: DL-FIQA
+name: VIT-FIQA
 channels:
   - defaults
 dependencies:
